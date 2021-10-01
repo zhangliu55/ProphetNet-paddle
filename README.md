@@ -5,4 +5,5 @@
 cnnDM:ROUGE-F(1/2/l): 44.20/21.17/41.30  
 Gigaword:ROUGE-F(1/2/l): 39.51/20.42/36.69  
 与原文中指标一致。
-
+### ProphetNet-paddle原文代码复现
+复现相关文件存于ProphetNet_paddle中。
